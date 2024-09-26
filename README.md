@@ -23,13 +23,13 @@ Info
 ***  
 <table style="width:100%;">
   <tr>
-    <td style="width:50%;">
+    <td style="width:40%;">
       <b>Top Repositories</b><br><br>
       <a href="https://github.com/pangcrd/TFT_22_ILI9225-ESP32-S2">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=TFT_22_ILI9225-ESP32-S2&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a><br><br>
       <a href="https://github.com/pangcrd/DHT22-ESP3224032028R">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&DHT22-ESP3224032028R&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=DHT22-ESP3224032028R&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
