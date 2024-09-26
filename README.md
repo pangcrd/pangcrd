@@ -1,4 +1,4 @@
-## Hi there 👋
+## 👋👋👋
  ----
 *   🧠  Starting with C/C++
 *   ⚡  Learning by sharing
