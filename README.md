@@ -1,5 +1,4 @@
-## Hi there 👋
-Info
+## Hi there 👋  
 ----
 
 *   🧠  Starting with C/C++
@@ -23,7 +22,7 @@ Info
 ***  
 <table style="width:100%;">
   <tr>
-    <td style="width:40%;">
+    <td style="width:50%;">
       <b>Top Repositories</b><br><br>
       <a href="https://github.com/pangcrd/TFT_22_ILI9225-ESP32-S2">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=TFT_22_ILI9225-ESP32-S2&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
