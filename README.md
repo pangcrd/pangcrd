@@ -1,5 +1,5 @@
 ## Hi there 👋
-----
+ ----
 *   🧠  Starting with C/C++
 *   ⚡  Learning by sharing 
 *   <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer"><img
