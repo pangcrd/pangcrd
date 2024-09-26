@@ -23,7 +23,7 @@ Newbie
   <tr>
     <td style="width:120%;">
       <a href="http://www.github.com/pangcrd">
-        <img widt600px"src="https://github-readme-stats.vercel.app/api?username=pangcrd&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pangcrd's GitHub stats" />
+         <img width="600px" "src="https://github-readme-stats.vercel.app/api?username=pangcrd&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="pangcrd's GitHub stats" />
       </a>
     </td>
     <td style="width:100%;">
