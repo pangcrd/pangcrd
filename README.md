@@ -1,6 +1,6 @@
 ## 👋👋👋
  ----
-*   🧠  Starting with C/C++ / UI
+*   🧠  Starting with C/C++ / UI embedded system
 *   ⚡  Learning by sharing
 
     <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer"><img
