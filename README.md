@@ -14,7 +14,7 @@
 
 ### Socials  
 
-<p align="left"> <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p> 
+<p align="left"> <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@pangcrd" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p> 
 
 ----     
 ### Stats  
@@ -29,11 +29,11 @@
   <tr>
     <td style="width:50%;">
       <b>Top Repositories</b><br><br>
-      <a href="https://github.com/pangcrd/TFT_22_ILI9225-ESP32-S2">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=TFT_22_ILI9225-ESP32-S2&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
+      <a href="https://github.com/pangcrd/LVGL_Bassic-tutorial">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=LVGL_Bassic-tutorial&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a><br><br>
-      <a href="https://github.com/pangcrd/DHT22-ESP3224032028R">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=DHT22-ESP3224032028R&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
+      <a href="https://github.com/pangcrd/PIDTemperature_LVGL">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=PIDTemperature_LVGL&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
