@@ -32,8 +32,8 @@
       <a href="https://github.com/pangcrd/LVGL_Bassic-tutorial">
         <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=LVGL_Bassic-tutorial&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a><br><br>
-      <a href="https://github.com/pangcrd/PIDTemperature_LVGL">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=PIDTemperature_LVGL&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
+      <a href="https://github.com/pangcrd/espnow-lvgl">
+        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=espnow-lvgl&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true&locale=en" />
       </a>
     </td>
   </tr>
