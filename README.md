@@ -6,10 +6,11 @@
   
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007D&width=435&lines=Starting+with+C%2FC%2B%2B+UI+Embedded;Learning+by+sharing;Focus+on+LVGL+%2F+UIUX+%2F+PCB+design)](https://git.io/typing-svg)
 
-  <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer">
-    <img src="https://img.shields.io/github/followers/pangcrd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=pangcrd&style=for-the-badge&color=ff69b4" />
+<a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/github/followers/pangcrd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
+</a>
+<br><br>
+<img src="https://komarev.com/ghpvc/?username=pangcrd&style=for-the-badge&color=ff69b4" />
 
 ---
 
