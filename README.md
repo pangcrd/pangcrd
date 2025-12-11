@@ -1,16 +1,21 @@
-## 👋👋👋  
-----
-* 🧠 Starting with **C/C++ / UI Embedded**
-* ⚡ Learning by sharing
-* 🎨 Focus on **LVGL / UIUX / PCB design**
+<h1 align="center"><b>Hi, I'm pangcrd</b> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" />
+
+<p align="center">
+  
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7007D&width=435&lines=Starting+with+C%2FC%2B%2B+UI+Embedded;Learning+by+sharing;Focus+on+LVGL+%2F+UIUX+%2F+PCB+design)](https://git.io/typing-svg)
 
 <a href="https://www.github.com/pangcrd" target="_blank" rel="noreferrer">
   <img src="https://img.shields.io/github/followers/pangcrd?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" />
 </a>
 
+</p>
+
 ---
 
-## ⚙️ Skills / Softwares  
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"><b> Skills</b>
+<br>
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
 <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a>
