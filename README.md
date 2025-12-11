@@ -25,6 +25,9 @@
   <img src="https://img.shields.io/badge/PlatformIO-orange?style=flat&logo=platformio&logoColor=white" />
 </p>
 
+  ![](https://komarev.com/ghpvc/?username=pangcrd&color=ff69b4&abbreviated=true)
+
+
 ---
 
 ### 🌍 Socials  
@@ -48,25 +51,7 @@
 ---
 
 ### 📊 Stats  
-<a href="http://www.github.com/pangcrd">
-  <img src="https://github-readme-stats.vercel.app/api?username=pangcrd&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="pangcrd's GitHub stats" />
-</a>
-
----
-
-### 🧩 Top Repositories  
-<table style="width:100%;">
-  <tr>
-    <td style="width:50%;">
-      <a href="https://github.com/pangcrd/LVGL_Bassic-tutorial">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=LVGL_Bassic-tutorial&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true" />
-      </a><br><br>
-      <a href="https://github.com/pangcrd/espnow-lvgl">
-        <img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=pangcrd&repo=espnow-lvgl&title_color=ff69b4&text_color=ffffff&icon_color=ff69b4&bg_color=0d1117&hide_border=true" />
-      </a>
-    </td>
-  </tr>
-</table>
+[![GitHub Streak](https://github-readme-streak-stats-plum-delta.vercel.app?user=pangcrd&theme=radical)](https://git.io/streak-stats)
 
 ---
 
